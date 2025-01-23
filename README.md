@@ -3,6 +3,8 @@
 ## 專案簡介
 這是一個基於 Node.js 和 Express 框架的後端服務，用於查詢銀行代碼和分行資訊，主要為bank-search專案所使用。服務會透過 API 代理請求第三方數據來源，並返回結果給前端使用者。
 
+[Demo連結](https://bank-search-backend-production.up.railway.app/)
+
 ---
 
 ## 功能
